@@ -1,0 +1,11 @@
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\bin\Debug\Groundhog Viewer.exe.config
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\bin\Debug\Groundhog Viewer.exe
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\bin\Debug\Groundhog Viewer.pdb
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\bin\Debug\MetroFramework.dll
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\bin\Debug\MetroFramework.Fonts.dll
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\obj\Debug\Groundhog Viewer.csprojResolveAssemblyReference.cache
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\obj\Debug\Groundhog_Viewer.Properties.Resources.resources
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\obj\Debug\Groundhog Viewer.csproj.GenerateResource.Cache
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\obj\Debug\Groundhog Viewer.exe
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\obj\Debug\Groundhog Viewer.pdb
+c:\users\groundhog\documents\visual studio 2015\Projects\Groundhog Noises\Groundhog Viewer\obj\Debug\Groundhog_Viewer.Form1.resources
